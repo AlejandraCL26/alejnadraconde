@@ -1,0 +1,141 @@
+*
+{
+    margin: 0px;
+}
+.caja1
+{
+    background-color: chartreuse;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    border-radius: 10px;
+    top: 30px;
+    left: 350px;
+}
+.caja2
+{
+    background-color: chartreuse;
+    width: 500px;
+    height: 80px;
+    border-radius: 30px;
+    position: sticky;
+    top: 10px;
+    left: 250px;
+    text-align: center;
+}
+.cara
+{
+    background-color: coral;
+    width: 400px;
+    height: 400px;
+    border-radius: 500px;
+    position: relative;
+    top: -10px;
+    left: 290px;
+}
+.ojo1
+{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top: 100px;
+    left: 80px;
+}
+.p1
+{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.ojo2
+{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top: 100px;
+    right: 80px;
+}
+.p2
+{
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+    top: 30px;
+    right: 10px;
+}
+.nariz
+{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top: 180px;
+    left: 150px;
+}
+.boca
+{
+    background-color:white;
+    width: 250px;
+    height: 70px;
+    border-radius: 50px;
+    position: absolute;
+    top: 290px;
+    left: 80px;
+}
+.labio
+{
+    background-color:orangered;
+    width: 180px;
+    height: 50px;
+    border-radius: 50px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
+}
+.cor
+{
+    background-color:deeppink;
+    width: 100px;
+    height: 70px;
+    border-radius: 50px;
+    border-style: dotted;
+    border-color: rgb(241, 150, 199);
+    position: relative;
+    top: -20px;
+    left: 430px;
+}
+.c1
+{
+    
+    width: 0;
+    height: 0;
+    border-left: 200px solid #c572b0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    position: relative;
+    top: -110px;
+    left: 280px;
+}
+.c2
+{
+    
+    width: 0;
+    height: 0;
+    border-right: 200px solid #c572b0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;  
+    position: relative;
+    top: -210px;
+    left: 480px;
+}
